@@ -1,4 +1,4 @@
-# ADCQ1805 IoT時代のマイコンC言語入門ボード”PICoT”（ピコット）
+# ADCQ1805P IoT時代のマイコンC言語入門ボード”PICoT”（ピコット）
 
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2018/03/4be805fe3d07dff8ace9f3c1830fc549.png)  
 
