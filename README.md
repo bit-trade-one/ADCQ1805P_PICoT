@@ -26,6 +26,8 @@ PICによるデバイスコントロールを学習可能です。
 
 \**Bluetooth/Wi-FiモジュールおよびDC,サーボモータなど外部接続デバイスは別途ユーザー自身による購入の必要があります。*
 
+## ["PICoT"の紹介(CQ出版社様のページに飛びます)](https://www.cqpub.co.jp/toragi/2008-2020/tabid/874/Default.html)
+
 ## 製品仕様
 
 【搭載PIC】PIC16F1778-I/SP、PIC16F18857-I/SP  
